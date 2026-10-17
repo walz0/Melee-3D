@@ -59,14 +59,14 @@ Open the MulitPatch application included in the zip in the Mac folder.
     c) on Fedora/CentOS/Suse: dnf install xdelta
     d) Other: Check your package manager for an xdelta/xdelta3 package
 2.) Open a Terminal and issue the command
-```
-    xdelta3 -dfs path/to/vanillassbm path/to/patch.xdelta path/to/patchediso.iso
-```
-    Replace the paths accordingly. The last path will be the destination of the resulting iso. After 1-2 minutes, it will create an iso in the path specified.
 
-#################################################
+```
+xdelta3 -dfs path/to/vanillassbm path/to/patch.xdelta path/to/patchediso.iso
+```
 
-Troubleshooting:
+Replace the paths accordingly. The last path will be the destination of the resulting iso. After 1-2 minutes, it will create an iso in the path specified.
+
+### Troubleshooting:
 
 xdelta errors: 
 1) Make sure your vanilla .iso is not compressed. If it is, you need to decompress it.
@@ -80,6 +80,7 @@ xdelta errors:
 
  0e63d4223b01d9aba596259dc155a174.
 
- If it does not you either have the wrong version of melee or an "unclean" one.
+If it does not you either have the wrong version of melee or an "unclean" one.
 
- #################################################
+---
+Credit: UnclePunch, Quad for the ISO builder
