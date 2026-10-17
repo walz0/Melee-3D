@@ -14,21 +14,13 @@ lorem ipsum
 
 lorem ipsum
 
-### Common Errors
-
-lorem ipsum
-
-
-## Controls
-Move                       Control stick in any direction
-Throttle                   R (default, can be changed on the character select screen by pressing L or R)
-
-All attacks are 'forward' inputs by default, use the Throttle to input up or down!
-
-Throttle does a slight down input (crouch) by default so a down special can be
+## How To Play
+- Your character moves in the direction you point the control stick.
+- All attacks are 'forward' inputs by default, use the Throttle to input up or down!
+- The Throttle is bound to R by default but can be changed on the character select screen by pressing L or R.
+- Throttle does a slight down input (crouch) by default so a down special can be
 performed by hitting Throttle + B.
-
-Holding the Throttle while recovering will automatically point your up special trajectory
-toward the ledge!
-
-Have fun!
+- Holding the Throttle while recovering will automatically point your up special trajectory toward the ledge!
+- Releasing the Throttle before your up special comes out will allow you to aim your recovery in the direction you point the control stick
+- Non-Throttled recoveries automatically send the player diagonally upward but can be controlled by moving the C stick up and down!
+- Moves like Ness's grounded up special and neutral special can be steered in 3D using the control stick to drive the horizontal axis and the C stick to drive the vertical axis
