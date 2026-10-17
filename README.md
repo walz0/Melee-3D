@@ -13,6 +13,17 @@ own risk!
 - Extract `Melee3D-Slippi.zip` to a folder
 - Follow the install instructions for your specific operating system
 
+## 3D Stage List
+- Final Destination
+- Pokemon Stadium
+- Yoshi's Story
+- Fountain of Dreams
+- Dreamland N64
+- Green Greens
+- Yoshis Island
+- Mute City
+- Onett
+
 ## How To Play
 - Your character moves in the direction you point the control stick.
 - All attacks are 'forward' inputs by default, use the Throttle to input up or down!
