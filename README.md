@@ -6,9 +6,13 @@ It is recommended to only use the default Slippi gecko codes when playing throug
 Slippi Online. Use of other gecko codes may cause desyncs and should be used at your
 own risk!
 
-## How To Compile the ISO on Windows
+## Requirements
+- A legally obtained and *unmodified* copy of a Super Smash Bros. Melee NTSC 1.02 ISO. If the ISO is not vanilla (MD5 0e63d4223b01d9aba596259dc155a174) the patch will fail!
 
-lorem ipsum
+## How To Compile the ISO on Windows
+- Extract `Melee3D-Slippi.zip` to a folder
+- Drag your Melee ISO onto `DRAG MELEE ISO HERE.bat`
+- The ISO will appear in the folder that you dragged your Melee ISO from
 
 ## How To Compile The ISO on MacOS
 
